@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70543702123",
+    "firebase_url": "https://bonjourcard.firebaseio.com",
+    "project_id": "bonjourcard",
+    "storage_bucket": "bonjourcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70543702123:android:993171d8f18f02f4",
+        "android_client_info": {
+          "package_name": "com.mobiwoom.carte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70543702123-qlkjjnp25a1m638i0p0debj3g18qr1l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ZXom7Yw_CqbdEvGXEXJRa0geNyjXakk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70543702123-qlkjjnp25a1m638i0p0debj3g18qr1l0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70543702123-mmuae1tl6ub21opo4arjeo39bq3049k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobiwoom.carte"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

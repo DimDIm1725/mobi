@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "screen-xxxhdpi-landscape.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "screen-xxxhdpi-landscape-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "screen-xxxhdpi-landscape-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
